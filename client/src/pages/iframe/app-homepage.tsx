@@ -1,5 +1,5 @@
 import {NextPage} from 'next'
-import styles from '../styles/Index.module.css'
+import styles from '../../styles/Index.module.css'
 
 const AppHomepage: NextPage = () => {
     return (
