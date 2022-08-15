@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "ngrok": "npx ngrok http 3000"
   },
   "dependencies": {
     "next": "12.2.5",

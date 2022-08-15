@@ -26,4 +26,3 @@ function getThemePropertiesFromSpace() {
         }, "*", [channel.port2]);
     });
 }
-Footer

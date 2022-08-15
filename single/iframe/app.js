@@ -3,7 +3,7 @@ import * as auth from "./auth.js";
 import * as team from "./team.js";
 
 window.onload = async (e) => {
-    await theme.getThemePropertiesAndSubscribeForChanges();
+    // await theme.getThemePropertiesAndSubscribeForChanges();
 
     const userTokenData = await auth.getUserAccessTokenData(false);
     if (userTokenData !== null) {
