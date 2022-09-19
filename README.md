@@ -2,4 +2,6 @@
 
 A coffee space for Jetbrains Space
 
-Allow users of an organisation to meet for virtual coffee with each other.
+Connect with people in your organisation for coffee and a chat.
+
+This is a plugin for Jetbrains Space.
